@@ -1,11 +1,7 @@
 {
   "mcpServers": {
     "playwright": {
-      "command": "pnpm",
-      "args": [
-        "exec",
-        "@playwright/mcp@latest"
-      ]
+      "url": "http://localhost:8931/mcp"
     }
   }
 }

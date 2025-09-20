@@ -8,6 +8,9 @@ importers:
 
   .:
     devDependencies:
+      '@faker-js/faker':
+        specifier: ^10.0.0
+        version: 10.0.0
       '@playwright/mcp':
         specifier: ^0.0.39
         version: 0.0.39
@@ -16,6 +19,10 @@ importers:
         version: 1.55.0
 
 packages:
+
+  '@faker-js/faker@10.0.0':
+    resolution: {integrity: sha512-UollFEUkVXutsaP+Vndjxar40Gs5JL2HeLcl8xO1QAjJgOdhc3OmBFWyEylS+RddWaaBiAzH+5/17PLQJwDiLw==}
+    engines: {node: ^20.19.0 || ^22.13.0 || ^23.5.0 || >=24.0.0, npm: '>=10'}
 
   '@playwright/mcp@0.0.39':
     resolution: {integrity: sha512-InIFtJSDg+TtoEeFUCGi3bE49In725N6v2B8GEFbm373Mbt5Mv2GO2rq/XdFiVaF4+EkpfXw7zd5ACUMLJJxmA==}
@@ -53,6 +60,8 @@ packages:
     hasBin: true
 
 snapshots:
+
+  '@faker-js/faker@10.0.0': {}
 
   '@playwright/mcp@0.0.39':
     dependencies:

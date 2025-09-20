@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "playwright": {
+      "command": "pnpm",
+      "args": [
+        "exec",
+        "@playwright/mcp@latest"
+      ]
+    }
+  }
+}
