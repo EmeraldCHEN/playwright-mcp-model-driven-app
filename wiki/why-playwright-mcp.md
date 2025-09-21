@@ -48,6 +48,7 @@ In conclusion, while Playwright C# .NET is a capable tool, the combination of Pl
 
 References
 - [Microsoft Playwright MCP GitHub Repo](https://github.com/microsoft/playwright-mcp)
+- [GitHub Copilot Pricing](https://github.com/features/copilot/plans)
 - [Why Do You Need (or NOT) the Playwright MCP Server](https://www.youtube.com/watch?v=FGwtDhjnBMc)
 - [Debug Playwright Tests with AI – Fix Failures Instantly](https://www.youtube.com/watch?v=Ec_3h5Q8RHY)
 - [How to use Copilot Agent Browser to generate Playwright tests FAST](https://www.youtube.com/watch?v=6z6wSsh2p08)
